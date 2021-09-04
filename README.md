@@ -7,7 +7,8 @@ I try to code something every few years to try to get back into it. It used to b
 
 I have a habit of losing all my programs, backup and configuration every once in a while, hence this github account.
 
-At the moment (2021) i'm trying to learn golang by attempting to write a simple gui hex editor for large files.
+My favourite languages used to be C and Haskell.
+At the moment (2021) i'm trying to learn Golang and quite like it.
 
 <!---
 snhmibby/snhmibby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
