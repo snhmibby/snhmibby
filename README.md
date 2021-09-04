@@ -3,8 +3,10 @@
 - 🌱 I’m currently learning ... golang
 - 📫 How to reach me ... find me!
 
-I'm a college dropout that tries to code something every few years and try to get back into it.
+I try to code something every few years to try to get back into it. It used to be my hobby when I was younger.
+
 I have a habit of losing all my programs, backup and configuration every once in a while, hence this github account.
+
 At the moment (2021) i'm trying to learn golang by attempting to write a simple gui hex editor for large files.
 
 <!---
