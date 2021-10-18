@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning ... golang
 - 📫 How to reach me ... find me!
 
-I try to code something every few years to try to get back into it.
-It used to be my hobby when I was younger.
+I've been coding and playing with computers on and off since I can remember.
 
-My favourite languages used to be C and Haskell.
-At the moment (2021) i'm trying to learn Golang.
+My favourite languages used to be C and Haskell, but now it's GO!
+Go is like C, or BSD's... It's not as fancy as some, but it sure as heck is simple and fun :)
+
+I've messed with anything from (visual) Basic to C to Haskell to CSS and Javascript... And everything in between.
